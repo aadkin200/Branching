@@ -9,4 +9,8 @@
 * `git branch` - list local branches
 * `git branch newBranch` - create local branch
 * `git checkout newBranch` - loads into new branch
+<<<<<<< HEAD
 * `git checkout -b *name of new branch*` - created and checks out new branch
+=======
+* `git checkout -b *name of new branch*` - created and checks out new branch 
+>>>>>>> dd274873bc2b868c617b1dd0661b694ef717bc08
