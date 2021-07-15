@@ -11,3 +11,5 @@
 * `git checkout newBranch` - loads into new branch
 
 * `git checkout -b *name of new branch*` - created and checks out new branch.
+* `git diff sha` -Show diffs between current commit and commit id `sha`
+* `git diff oneBranch otherBranch` - Show diffs between `oneBranch` and `otherBranch`
