@@ -8,4 +8,5 @@
 ### Branching
 * `git branch` - list local branches
 * `git branch newBranch` - create local branch
-* `git check newBranch` -
+* `git checkout newBranch` - loads into new branch
+* `` -brief reference of various git commands
