@@ -10,7 +10,11 @@
 * `git branch newBranch` - create local branch
 * `git checkout newBranch` - loads into new branch
 <<<<<<< HEAD
+<<<<<<< HEAD
 * `git checkout -b *name of new branch*` - created and checks out new branch
 =======
 * `git checkout -b *name of new branch*` - created and checks out new branch 
 >>>>>>> dd274873bc2b868c617b1dd0661b694ef717bc08
+=======
+* `git checkout -b *name of new branch*` - created and checks out new branch
+>>>>>>> 2f9a8a1a9f424ecb45a736c5f1002fc26fd3a09a
